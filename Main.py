@@ -2,7 +2,6 @@ import pygame as p
 import Engine, SMF
 from multiprocessing import Process, Queue
 
-questogiocoèunoschifodimerdaporcoilcazzodigabrielecassinatiVENTTTTOTTOSOLFEGGIOEJOHNPORKBATTERISTAJAZZ = True
 
 BOARD_WIDTH = BOARD_HEIGHT = 512 #dimensione finestra
 MOVE_LOG_PANEL_WIDTH = 250
